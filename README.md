@@ -4,6 +4,15 @@
 
 Este projeto oferece uma solução baseada em IA para ajudar a limpar os oceanos, identificando e categorizando vários tipos de resíduos usando visão computacional. O projeto inclui uma API para processar imagens e uma interface front-end para interação do usuário.
 
+## Integrantes do Grupo
+
+- Kaique Santos de Andrade - RM99562
+- Marcelo Augusto de Mello Paixão - RM99466
+- Rodrigo Batista Freire - RM99513
+- Thiago Martins Bezerra - RM98644
+- Vinicius Oliveira de Almeida - RM97967
+#
+
 ## Construir e Enviar Imagens Docker
 
 ### Imagem Docker da API
