@@ -75,7 +75,11 @@ Você tem duas opções para executar o front-end: usando Docker ou executando l
   npm start dev
 ```
 
-### 4º - Abra o seu navegador e acesse: localhost:5173
+### 4º - Abra o seu navegador e acesse: 
+
+```bash
+  localhost:5173
+```
 
 #
 
