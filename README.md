@@ -1,4 +1,4 @@
-# Projeto Clean Oceanic CV
+![CleanOceanicGreenBlue](https://github.com/CleanOceanic/disruptive_architectures/assets/80494196/65e0a5d3-30b6-4802-8d6a-4a199cd8c5c7)
 
 ## Introdução
 
@@ -25,16 +25,6 @@ Este projeto oferece uma solução baseada em IA para ajudar a limpar os oceanos
   docker push marceloamellopaixao/cleanoceanic-cv_api:latest
 ```
 
-### Imagem Docker do Front-End
-- Nome da Imagem: marceloamellopaixao/cleanoceanic-cv_front:latest
-- URL do Dockerhub: cleanoceanic-cv_front
-
-```bash
-  docker build -t marceloamellopaixao/cleanoceanic-cv_front:latest .
-  docker login
-  docker push marceloamellopaixao/cleanoceanic-cv_front:latest
-```
-
 # Executando a Aplicação Localmente
 ## API
 ### 1º - Baixe a imagem mais recente da API:
@@ -47,21 +37,6 @@ Este projeto oferece uma solução baseada em IA para ajudar a limpar os oceanos
 
 ```bash
   docker run -d -p 5000:5000 marceloamellopaixao/cleanoceanic-cv_api
-```
-
-## Front-End
-Você tem duas opções para executar o front-end: usando Docker ou executando localmente.
-
-### 1º - Baixe a imagem mais recente do Front-End:
-
-```bash
-  docker pull marceloamellopaixao/cleanoceanic-cv_front:latest
-```
-
-### 2º - Execute o contêiner do Front-End:
-
-```bash
-  docker run -d -p 8080:8080 marceloamellopaixao/cleanoceanic-cv_front
 ```
 
 ## Executando Localmente
@@ -84,7 +59,7 @@ Você tem duas opções para executar o front-end: usando Docker ou executando l
   npm start dev
 ```
 
-### 4º - Abra o seu navegador e acesse: 
+### 4º - Abra no seu navegador a url: 
 
 ```bash
   localhost:5173
@@ -103,4 +78,5 @@ Você tem duas opções para executar o front-end: usando Docker ou executando l
   - Latas
   - Plásticos
   - Baterias
+
 ### 3º - A aplicação processará a imagem e categorizará o resíduo.
