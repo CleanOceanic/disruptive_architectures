@@ -1,0 +1,8 @@
+0 Papelao
+1 Organico
+2 Vidro
+3 Metal
+4 Tecido
+5 Papel
+6 Plastico
+7 Eletronicos
