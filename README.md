@@ -16,6 +16,9 @@ Este projeto oferece uma solução baseada em IA para ajudar a limpar os oceanos
 ### Pitch
 https://youtu.be/8eTHW4eEJ0Y
 
+### Pitch com Visão Computacional
+https://youtu.be/nSL7pTXd62w
+
 ## Construir e Enviar Imagens Docker
 
 ### Imagem Docker da API
