@@ -13,8 +13,8 @@ Este projeto oferece uma solução baseada em IA para ajudar a limpar os oceanos
 - Vinicius Oliveira de Almeida - RM97967
 #
 
-### Video Pitch
-[Video Pitch](https://youtu.be/8eTHW4eEJ0Y)
+### Pitch
+https://youtu.be/8eTHW4eEJ0Y
 
 ## Construir e Enviar Imagens Docker
 
